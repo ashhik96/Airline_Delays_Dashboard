@@ -5,7 +5,7 @@ The dashboard is powered by PivotTables, slicers, and KPIs — allowing you to f
 
 Sheets with raw data and calculations are protected/hidden to keep the file read-only. Users can still interact with slicers and explore insights without modifying the data.
 
-![Dashboard Preview](assets/dashboard-screenshot.png)
+![Dashboard Preview](assets/Dashboard Screenshot.png)
 
 ---
 
@@ -44,11 +44,11 @@ This analysis uses **2024 data** from the **U.S. Bureau of Transportation Statis
 
 **Dashboard Preview:**
 
-![Dashboard Preview](assets/dashboard-screenshot.png)
+![Dashboard Preview](assets/dashboard Screenshot.png)
 
 **Interactive Demo:**
 
-![Dashboard Demo](assets/dashboard-demo.gif)
+![Dashboard Demo](assets/Dashboard GIF.gif)
 
 ---
 
