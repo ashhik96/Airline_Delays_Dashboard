@@ -5,7 +5,7 @@ The dashboard is powered by PivotTables, slicers, and KPIs — allowing you to f
 
 Sheets with raw data and calculations are protected/hidden to keep the file read-only. Users can still interact with slicers and explore insights without modifying the data.
 
-![Dashboard Preview](assets/Dashboard Screenshot.png)
+![Dashboard Preview](assets/DashboardScreenshot.png)
 
 ---
 
