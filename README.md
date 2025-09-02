@@ -56,6 +56,16 @@ This analysis uses **2024 data** from the **U.S. Bureau of Transportation Statis
 
 ---
 
+## 🧠 What I Learned  
+
+- How to design **interactive dashboards** using **PivotTables** and **PivotCharts**  
+- Effective use of **slicers** and **timeline filters** to allow end-users to explore data dynamically  
+- Structuring raw datasets and **building a star-schema style data model** inside Excel for clean analysis  
+- Leveraging **calculated fields and measures** within PivotTables to derive KPIs (e.g., % delayed flights, average delay minutes)  
+- Creating **layered visualizations** (trend charts, cause breakdowns, KPI cards) to provide both summary and drill-down insights  
+
+---
+
 ##  Author
 
 - **Ashik Rahman**  
