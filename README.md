@@ -40,12 +40,6 @@ This analysis uses **2024 data** from the **U.S. Bureau of Transportation Statis
 
 ---
 
-##  Demo
-
-**Dashboard Preview:**
-
-![Dashboard Preview](assets/Dashboard-Screenshot.png)
-
 **Interactive Demo:**
 
 ![Dashboard Demo](assets/Dashboard-GIF.gif)
